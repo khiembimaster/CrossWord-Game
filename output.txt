@@ -1,0 +1,13 @@
+11
+BALL (7,1) LR| 
+BLUE (0,0) NF| 
+BOOK (3,9) TD| 
+CAT (4,4) LR| 
+DOG (4,2) TD| 
+DOLL (1,1) TD| 
+MOUSE (6,3) LR| 
+ORANGE (3,2) LR| 
+PENCILCASE (1,2) LR| 
+PINK (5,5) LR| 
+RABBIT (2,10) TD| 
+YELLOW (2,2) LR| 
