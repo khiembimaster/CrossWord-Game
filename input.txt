@@ -4,7 +4,7 @@ D P E N C I L C A S E M
 O Y E L L O W K Y R O B 
 L O R A N G E G B A J L
 L D T C A T R S O B Z U
-U O L T P I N K O B I A
+U O L T P I N K O B I E
 V G M O U S E Z K I U E
 B A L L I A E M B T R O
 
@@ -19,5 +19,5 @@ DOG
 CAT
 PENCILCASE
 DOLL
-BALL
+BALLI
 #
